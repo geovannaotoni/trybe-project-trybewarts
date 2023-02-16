@@ -14,8 +14,9 @@ body {
   width: 100%;
   align-items: center;
   justify-content: space-around;
-  padding: 15px;
+  padding: 2px;
   color: white;
+  font-family: 'Inknut Antiqua', serif;
 }
 
 .trybewarts-header-logo {
@@ -82,15 +83,17 @@ hr {
 div.name {
   width: 100%;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 footer {
   position: static;
   bottom: 0;
-  padding: 20px;
+  padding: 10px;
   background-color: rgb(50, 167, 145);
   width: 100%;
   text-align: center;
+  font-family: 'Inknut Antiqua', serif;
 }
 
 button {
@@ -131,11 +134,11 @@ main input , select {
 }
 
 main #lineOne input {
-  width: 45%;
+  width: 49%;
 }
 
 main select {
-  width: 39%;
+  width: 43%;
 }
 
 #lineThree div {
